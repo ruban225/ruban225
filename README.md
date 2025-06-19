@@ -1,5 +1,5 @@
 # 💫 About Me:
-Here’s a simple and professional GitHub bio for you:<br><br>---<br><br>🌱 Full Stack Developer | Fresher  <br>🔹 Skilled in Python, HTML, CSS, JavaScript  <br>🔹 Learning React, Node.js, and SQL  <br>🔹 Passionate about coding and solving real-world problems  <br>🔹 Open to internships and junior developer roles<br><br>---<br><br>Let me know if you want a more creative, fun, or Tamil version!
+Here’s a simple and professional GitHub bio for you:<br><br>---<br><br>🌱 Full Stack Developer | Fresher  <br>🔹 Skilled in Python, HTML, CSS, JavaScript  <br>🔹 Learning React, Node.js, and SQL  <br>🔹 Passionate about coding and solving real-world problems  <br> roles<br><br>---<br><br>Let me know if you want a more creative, fun, or Tamil version!
 
 
 ## 🌐 Socials:
