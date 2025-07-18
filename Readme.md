@@ -1,8 +1,8 @@
-@ 💫 About Me:
+# 💫 About Me:
 🌱 Full Stack Developer | Fresher  <br>🔹 Skilled in Python, HTML, CSS, JavaScript, Bootstrap, Tailwind, Java  <br>🔹 Learning React and My SQL  <br>🔹 Passionate about coding and solving real-world problems  <br> roles<br><br>---
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BY-Ruban Raj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rubanraj225@gmail.com) 
 
 # 💻 Tech Stack:
