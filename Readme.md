@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Full Stack Developer | Fresher  <br>🔹 Skilled in Python, HTML, CSS, JavaScript, Bootstrap, Tailwind, Java  <br>🔹 Learning React and My SQL  <br>🔹 Passionate about coding and solving real-world problems  <br> roles<br><br>---
+🌱 Full Stack Developer | Fresher  <br>🔹 Skilled in Python, Java, HTML, CSS, JavaScript, Bootstrap, Tailwind,   <br>🔹 Learning React and My SQL  <br>🔹 Passionate about coding and solving real-world problems  <br> roles<br><br>---
 
 <h2 align="left">Hi 👋 I'm Ruban Raj and I'm a Full Stack Developer.</h2>
 
