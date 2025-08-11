@@ -1,7 +1,7 @@
-# 💫 About Me:
-🌱 Full Stack Developer | Fresher  <br>🔹 Skilled in Python, Java, HTML, CSS, JavaScript, Bootstrap, Tailwind,   <br>🔹 Learning React and My SQL  <br>🔹 Passionate about coding and solving real-world problems  <br> roles<br><br>---
+# 💫 About Me:  <h2 align="left">Hi 👋 I'm Ruban Raj and I'm a Full Stack Developer.</h2>
+🔹 Skilled in Python, Java, HTML, CSS, JavaScript, Bootstrap, Tailwind,   <br>🔹 Learning React and My SQL  <br>🔹 Passionate about coding and solving real-world problems <br> <br> <br>🛠 I'm currently working on: A personal portfolio website using HTML, CSS, Bootstrap & Tailwindcss..  <br>👯 I'm looking to collaborate on: Beginner-friendly open-source projects or hackathons.  <br>🤝 I'm looking for help with: Learning React and improving my problem-solving skills.  <br>🌱 I'm currently learning: React.js ,Java &Python Programing.<br>💬 Ask me about: Front-end development, GitHub basics, or setting up VS Code.  <br>⚡ I love optimizing code—it’s like solving a puzzle.
 
-<h2 align="left">Hi 👋 I'm Ruban Raj and I'm a Full Stack Developer.</h2>
+
 
 ###
 
@@ -54,3 +54,30 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </div>
+
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/always_ruban__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rubanraj255) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Ruban225) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rubanraj225@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ruban225&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ruban225&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruban225&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ruban225&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ruban225&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ruban225&icon=8&color=4)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
